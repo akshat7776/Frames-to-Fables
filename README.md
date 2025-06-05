@@ -32,3 +32,9 @@ Convolution Neural Networks:
 Intro to NLP:
  - https://www.youtube.com/watch?v=6C0sLtw5ctc&list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX&index=3 (Covers all possible preprocessing techniques)
  - https://koushik1102.medium.com/nlp-bag-of-words-and-tf-idf-explained-fd1f49dce7c4 (A quick refresher on BoW and TF-IDF)
+
+## Week 3
+Advanced Word Embedding Methods:
+ - https://www.youtube.com/watch?v=viZrOnJclY0 (Must-watch)
+ - https://www.youtube.com/watch?v=Fn_U2OG1uqI (An indepth explanation of GloVe)
+ - https://www.geeksforgeeks.org/word-embeddings-using-fasttext (Intro to FastText, we did not cover this in the session, but useful nonetheless for morphologically rich languages)

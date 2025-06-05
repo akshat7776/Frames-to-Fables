@@ -34,6 +34,21 @@ Intro to NLP:
  - https://koushik1102.medium.com/nlp-bag-of-words-and-tf-idf-explained-fd1f49dce7c4 (A quick refresher on BoW and TF-IDF)
 
 ## Week 3
+### Recurrent Neural Networks
+- [CampusX Video Series](https://www.youtube.com/watch?v=4KpRP-YUw6c&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=55&ab_channel=CampusX)  
+  *(Watch all videos starting from this video, i.e., video no-55 to video no-60.)*
+- Alternative Resources:  
+  - [GeeksforGeeks - Introduction to Recurrent Neural Networks](https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/)
+  - [Alexander Amini's Lecture](https://www.youtube.com/watch?v=dqoEU9Ac3ek&t=2908s&ab_channel=AlexanderAmini)
+
+### Long Short Term Memory
+- [CampusX Video Series](https://www.youtube.com/watch?v=z7IPBg6MyrU&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=61&ab_channel=CampusX)  
+  *(Watch all videos starting from this video, i.e., video no-61 to video no-63.)*
+- Alternative Resources:  
+  - [Colah's Blog - Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  - [Krish Naik's Explanation](https://www.youtube.com/watch?v=rdkIOM78ZPk&ab_channel=KrishNaik)
+
+
 Advanced Word Embedding Methods:
  - https://www.youtube.com/watch?v=viZrOnJclY0 (Must-watch)
  - https://www.youtube.com/watch?v=Fn_U2OG1uqI (An indepth explanation of GloVe)

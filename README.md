@@ -28,3 +28,7 @@ Convolution Neural Networks:
  - https://www.youtube.com/watch?v=KuXjwB4LzSA&pp=ygUEQ05Ocw%3D%3D
  - https://medium.com/thedeephub/convolutional-neural-networks-a-comprehensive-guide-5cc0b5eae175
  - https://setosa.io/ev/image-kernels/ (just to get a feel of various filters)
+
+Intro to NLP:
+ - https://www.youtube.com/watch?v=6C0sLtw5ctc&list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX&index=3 (Covers all possible preprocessing techniques)
+ - https://koushik1102.medium.com/nlp-bag-of-words-and-tf-idf-explained-fd1f49dce7c4 (A quick refresher on BoW and TF-IDF)

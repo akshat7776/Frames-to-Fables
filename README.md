@@ -53,3 +53,14 @@ Advanced Word Embedding Methods:
  - https://www.youtube.com/watch?v=viZrOnJclY0 (Must-watch)
  - https://www.youtube.com/watch?v=Fn_U2OG1uqI (An indepth explanation of GloVe)
  - https://www.geeksforgeeks.org/word-embeddings-using-fasttext (Intro to FastText, we did not cover this in the session, but useful nonetheless for morphologically rich languages)
+
+
+# Session Slides
+
+
+# Assignments
+- Assignment 1: https://docs.google.com/document/d/1uTJTQ4IhCGMd3FQN37Uw1QmBNW1n7h4Oa0emZ_78BWk/edit?usp=sharing
+- Assignment 2: Train a decision tree classifier form scratch for this dataset: https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data
+- Assignment 3: https://colab.research.google.com/drive/1xhH47coWA5tuzMdcgxRzsSa9GXKNpnIU#scrollTo=iQ5wPjPb57pb
+- 
+

@@ -56,11 +56,11 @@ Advanced Word Embedding Methods:
 
 
 # Session Slides
-
+Uploaded in the Slides folder of this repository.
 
 # Assignments
 - Assignment 1: https://docs.google.com/document/d/1uTJTQ4IhCGMd3FQN37Uw1QmBNW1n7h4Oa0emZ_78BWk/edit?usp=sharing
 - Assignment 2: Train a decision tree classifier form scratch for this dataset: https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data
 - Assignment 3: https://colab.research.google.com/drive/1xhH47coWA5tuzMdcgxRzsSa9GXKNpnIU#scrollTo=iQ5wPjPb57pb
-- 
+- Assignment 4: https://colab.research.google.com/drive/16cMFBFK9T4AI6uM9zTMgb3NOlVLzDy4m?usp=sharing
 

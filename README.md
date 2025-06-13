@@ -64,3 +64,12 @@ Uploaded in the Slides folder of this repository.
 - Assignment 3: https://colab.research.google.com/drive/1xhH47coWA5tuzMdcgxRzsSa9GXKNpnIU#scrollTo=iQ5wPjPb57pb
 - Assignment 4: https://colab.research.google.com/drive/16cMFBFK9T4AI6uM9zTMgb3NOlVLzDy4m?usp=sharing
 
+## Week 4
+
+### Transformers
+ -[CampusX Video Series](https://www.youtube.com/watch?v=8fX3rOjTloc&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=67)  
+  *(Watch all videos starting from this video, i.e., video no-67 to video no-84. I understand these lectures are long and the there are many lectures but trust me guys these lectures are worth watching  and also in these lectures he tried to explain  like a school teacher  so you can watch these lectures in 1.5X or 2X)*
+- Alternative Resources: 
+  - [jay alammar-blog - Understanding LSTMs](https://jalammar.github.io/illustrated-transformer/)(you must read this blog to get high level overview of the transformers.)
+  - [Krish Naik's Explanation](https://www.youtube.com/watch?v=3bPhDUSAUYI)(This is one shot 5 hours video .In this video he has explained the whole architechture of transformer with good explaination.you can refer this as campus x alternative)
+  - [Attention All You Need paper](https://arxiv.org/abs/1706.03762)( must read paper.)

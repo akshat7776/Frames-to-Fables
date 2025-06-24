@@ -73,3 +73,7 @@ Uploaded in the Slides folder of this repository.
   - [jay alammar-blog - Understanding LSTMs](https://jalammar.github.io/illustrated-transformer/)(you must read this blog to get high level overview of the transformers.)
   - [Krish Naik's Explanation](https://www.youtube.com/watch?v=3bPhDUSAUYI)(This is one shot 5 hours video .In this video he has explained the whole architechture of transformer with good explaination.you can refer this as campus x alternative)
   - [Attention All You Need paper](https://arxiv.org/abs/1706.03762)( must read paper.)
+
+## Week 5
+  - Very good visulaization for LLMs: https://poloclub.github.io/transformer-explainer/
+  - Session on Multimodal learning: https://www.notion.so/Transformers-and-Multimodal-learning-2144d7c975ac80ffb429cc0ca1db3c45?source=copy_link

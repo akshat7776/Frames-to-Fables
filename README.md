@@ -77,3 +77,10 @@ Uploaded in the Slides folder of this repository.
 ## Week 5
   - Very good visulaization for LLMs: https://poloclub.github.io/transformer-explainer/
   - Session on Multimodal learning: https://www.notion.so/Transformers-and-Multimodal-learning-2144d7c975ac80ffb429cc0ca1db3c45?source=copy_link
+
+## Week 6
+
+### Fine-Tuning
+  - https://www.ibm.com/think/topics/fine-tuning
+  - https://www.youtube.com/watch?v=6S59Y0ckTm4&list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3 (Must watch the first 2 videos, can see more if interested)
+  - https://medium.com/@levxn/lora-and-qlora-effective-methods-to-fine-tune-your-llms-in-detail-6e56a2a13f3c

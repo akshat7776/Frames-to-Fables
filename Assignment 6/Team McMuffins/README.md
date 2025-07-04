@@ -16,7 +16,8 @@ To explore different pre-trained image captioning models and generate a coherent
 ## **Dataset**
 
 It consists of 4 static illustrations of two boys and their mother.<br>
-![Illustrations]({4A6F6D36-2710-4A36-9342-8D8055514DF5}.png)
+![{D49AB54B-E88F-4ABF-B0CA-0312E1F4FBF9}](https://github.com/user-attachments/assets/a77015cf-f08e-434b-b39f-6db5168232aa)
+
 
 > **Note:**
 > All the images were fetched using `requests` and processed using `PIL`.
